@@ -1,10 +1,8 @@
 # Taller de Programación en C
-
-Este repositorio contiene todos los ejercicios planteados en el taller de Matrices de programación, para C, llegando asi a presentar distintos ejercicios con matrices.
+Este repositorio recopila todos los ejercicios planteados en el taller de Matrices de programación para lenguaje C.
 
 ## Estructura del Repositorio
-
-A continuación se incluye el acceso directo a la ubicación del archivo para cada ejercicio de matrices:
+A continuación, se proporciona un enlace directo a la ubicación del archivo para cada ejercicio de matrices:
 
 1. **Imprimir los 4 elementos de la esquina**
    - [`Matrices/Matriz_Esquina_4-E.c`](https://github.com/SteevenAA/Taller-Matrices/blob/main/Matrices/1.Matriz_Esquina_4-E.c)
